@@ -90,6 +90,6 @@ i18n.map("tr", {
 		passwordTooShort: "Şifre en az 6 karakter uzunluğunda olmalıdır",
 		passwordsDontMatch: "Şifreler uyuşmuyor",
 		newPasswordSameAsOld: "Yeni şifreniz ile eski şifreniz aynı olmamalıdır",
-		signupsForbidden: "Kayıt olmak engellenmiştir"
+		signupsForbidden: "Kayıt olmak yasaklanmıştır"
 	}
 });
